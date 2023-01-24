@@ -7,6 +7,7 @@
 A superstore is planning to re-launch a year-end promotion for a gold membership. The management feels that the best way to reduce the cost of the campaign is to make a predictive model which will classify customers who might purchase the offer. The superstore wants to predict the likelihood of the customer giving a positive response and wants to identify the different factors which affect the customer's response. You need to analyze the data provided to identify these factors and then build a prediction model to predict the probability of a customer will give a positive response.
 
 ### Dataset:
+This dataset and challenge can be found on: https://www.kaggle.com/datasets/ahsan81/superstore-marketing-campaign-dataset
 This dataset contained 2,240 rows with 22 columns pertaining to each customers' demographic data, recent shopping experience, and conversion status from last campaign. The data was relatively very clean with a few minor clean ups: 1) Null income data for a small portion of users, which were dropped from the study. 2) Consolidating education background and marital status data by pooling similar statuses together (Ex. 'Single' & 'Alone'). 3) Translating customer registration date, a datetime data, into 'account_age' int field, making it easier to work with.
 
 ### Summary of Findings:
